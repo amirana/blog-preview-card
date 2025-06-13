@@ -1,4 +1,4 @@
-# Frontend Mentor Challenges - Blog Preview Card (HTML & CSS)
+# Frontend Mentor Challenge - Blog Preview Card (HTML & CSS)
 <p>This is a solution to the Frontend Mentor - Blog Preview Card challenge. The goal was to build a simple and clean Blog Preview Card component that matches the provided design as closely as possible.</p>
 
 <ul>
